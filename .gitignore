@@ -1,0 +1,9 @@
+data/*
+runs/*
+logs/*
+__pycache__/*
+notes.txt
+Image Classification with Resnet and hard samples/*
+```
+img classification with BiT model/is-that-santa-image-classification/is that santa/*
+img classification with BiT model/is-that-santa-image-classification.zip
