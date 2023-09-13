@@ -1,0 +1,1 @@
+This Jupyter notebook primarily focuses on generating saliency map of the image. To simplify, I directly used the pretrained Resnet50 on Imagnet, then define a custom compute_saliency function to get and visualize the saliency map of the example image "ouzel".
